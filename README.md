@@ -1,9 +1,9 @@
 [![MasterHead](https://media0.giphy.com/headers/GitHub/w8ZJLtJbmuph.gif)]
 <h1 align="center">Hi 👋, I'm Talha Ansari</h1>
 <h3 align="center">A passionate developer from India</h3>
-<img align="center" alt="Coding" width="300" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=talha-ansarii&label=Profile%20views&color=0e75b6&style=flat" alt="talha-ansarii" /> </p>
+<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=talha-ansarii&label=Profile%20views&color=0e75b6&style=flat" alt="talha-ansarii" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=talha-ansarii" alt="talha-ansarii" /></a> </p>
 

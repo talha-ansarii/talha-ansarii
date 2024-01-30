@@ -9,11 +9,10 @@
 
 - 🔭 I’m currently working on **OpenCV**
 
-- 🌱 I’m currently learning **React.js and DSA**
+- 🌱 I’m currently learning **Next.js and DSA**
 
 - 📫 How to reach me **talhaansari1606@gmail.com**
 
-- ⚡ Fun fact **I can't dance.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
